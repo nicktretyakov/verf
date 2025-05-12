@@ -1,0 +1,11 @@
+[package]
+name = "verf"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+petgraph = "0.6"
+linfa = "0.6"
+linfa-trees = "0.6"
+ndarray = "0.15"
+rand = "0.8"
