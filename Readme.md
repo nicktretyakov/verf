@@ -1,30 +1,4 @@
-Here's a comprehensive README.md file for your project:
 
-```markdown project="Finite Automaton with ML" file="README.md"
-...
-```
-
-git clone [https://github.com/yourusername/finite-automaton-ml.git](https://github.com/yourusername/finite-automaton-ml.git)
-cd finite-automaton-ml
-
-```plaintext
-
-2. Build the project:
-```
-
-cargo build --release
-
-```plaintext
-
-## Usage
-
-Run the project with:
-
-\`\`\`
-cargo run --release
-\`\`\`
-
-This will:
 1. Build a finite automaton with three states
 2. Generate training data
 3. Train a decision tree model
